@@ -1,8 +1,8 @@
 package mongodriver
 
 import (
-	"github.com/bos-hieu/mongostore"
-	"github.com/gin-contrib/sessions"
+	"github.com/laziercoder/mongostore"
+	"github.com/dscso/sessions"
 	"go.mongodb.org/mongo-driver/mongo"
 )
 
