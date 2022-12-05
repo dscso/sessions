@@ -1,3 +1,5 @@
+# DONT USE THIS FOR PRODUCTION
+
 # sessions
 
 [![Run CI Lint](https://github.com/gin-contrib/sessions/actions/workflows/lint.yml/badge.svg)](https://github.com/gin-contrib/sessions/actions/workflows/lint.yml)
